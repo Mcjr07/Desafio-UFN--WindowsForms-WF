@@ -6,17 +6,12 @@ Programa desenvolvido em C# Windows Forms que gera pares para os participantes d
   <img src="https://github.com/Mcjr07/Desafio-UFN--WindowsForms-WF/assets/146873394/f7203946-36cd-4ac0-863e-48d373f9b93b"/>
 </div>
 <br>
-
-<h1>Tela de cadastro:</h1>
+<h1>Tela de cadastro</h1>
 <div align="center">
-  <img src="https://github.com/Mcjr07/Desafio-AmigoSecretoWF-Academia-UFN/assets/146873394/a289ee2a-b3bc-4812-97ee-f6258333283d"/>
+  <img src="https://github.com/Mcjr07/Desafio-UFN--WindowsForms-WF/assets/146873394/29b847d6-1b59-4ca6-94e4-c8d5b309dae5"/>
 </div>
-
 <br>
-<h1>Lista de nomes cadastrados:</h1>
-<div align="center">
-  <img src="https://github.com/Mcjr07/Desafio-AmigoSecretoWF-Academia-UFN/assets/146873394/ce6b1a8a-516d-48c3-b5ea-26ded956e87f"/>
-</div>
+
 <br>
 <h1>Lista com nomes já sorteados</h1>
 <div align="center">
